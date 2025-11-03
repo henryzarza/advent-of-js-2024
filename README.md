@@ -8,7 +8,9 @@ I subscribed to the challenge [__HERE__](https://www.adventofjs.com/)
 
 ### Day 1
 
-TODO
+Create a password input field. Clicking on the eyeball will toggle the password visibility on and off.
+
+<img width="977" height="621" alt="Screenshot 2025-11-03 at 14 24 49" src="https://github.com/user-attachments/assets/5bc404d4-c7c8-4a48-8f2d-bf0c780c382c" />
 
 ### Day 2
 
